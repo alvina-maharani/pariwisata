@@ -31,7 +31,7 @@ with Learn :
 
     st.write("Dataset yang digunakan adalah data keterangan tempat wisata dari website pariwisata Kota Tuban ")
     st.write("Total datanya adalah 44 dengan 3 kategori")
-    df = pd.read_excel("D:\semester 6\Informatika pariwisata\pariwisata\data_pariwisata.xlsx")
+    df = pd.read_excel("https://github.com/alvina-maharani/pariwisata/blob/main/data_pariwisata.xlsx")
     st.dataframe(df)
 
 with Proses :
