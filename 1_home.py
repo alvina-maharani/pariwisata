@@ -165,8 +165,8 @@ with Model :
 
     #menyimpan hasil
 
-    joblib.dump(SVM, "D:\semester 6\Informatika pariwisata\pariwisata\klasifikasiuhuy")
-    joblib_models = joblib.load("D:\semester 6\Informatika pariwisata\pariwisata\klasifikasiuhuy")
+    joblib.dump(SVM, "https://github.com/alvina-maharani/pariwisata/blob/main/klasifikasiuhuy")
+    joblib_models = joblib.load("https://github.com/alvina-maharani/pariwisata/blob/main/klasifikasiuhuy")
 
 with Implementasi :
     
